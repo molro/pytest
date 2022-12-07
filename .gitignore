@@ -130,3 +130,6 @@ dmypy.json
 
 # Vagrant
 .vagrant 
+
+# MacOs
+.DS_store
